@@ -4,3 +4,4 @@
 
 - Initial release
 - docs: clarify the setup steps
+- chore: link the usage section
